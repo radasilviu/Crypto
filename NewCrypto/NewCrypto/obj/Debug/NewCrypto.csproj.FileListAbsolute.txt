@@ -1,0 +1,14 @@
+C:\Users\Softparc_10\Desktop\NewCrypto\NewCrypto\bin\Debug\NewCrypto.exe.config
+C:\Users\Softparc_10\Desktop\NewCrypto\NewCrypto\bin\Debug\NewCrypto.exe
+C:\Users\Softparc_10\Desktop\NewCrypto\NewCrypto\bin\Debug\NewCrypto.pdb
+C:\Users\Softparc_10\Desktop\NewCrypto\NewCrypto\obj\Debug\MainWindow.g.cs
+C:\Users\Softparc_10\Desktop\NewCrypto\NewCrypto\obj\Debug\App.g.cs
+C:\Users\Softparc_10\Desktop\NewCrypto\NewCrypto\obj\Debug\NewCrypto_MarkupCompile.cache
+C:\Users\Softparc_10\Desktop\NewCrypto\NewCrypto\obj\Debug\NewCrypto_MarkupCompile.lref
+C:\Users\Softparc_10\Desktop\NewCrypto\NewCrypto\obj\Debug\MainWindow.baml
+C:\Users\Softparc_10\Desktop\NewCrypto\NewCrypto\obj\Debug\NewCrypto.g.resources
+C:\Users\Softparc_10\Desktop\NewCrypto\NewCrypto\obj\Debug\NewCrypto.Properties.Resources.resources
+C:\Users\Softparc_10\Desktop\NewCrypto\NewCrypto\obj\Debug\NewCrypto.csproj.GenerateResource.cache
+C:\Users\Softparc_10\Desktop\NewCrypto\NewCrypto\obj\Debug\NewCrypto.csproj.CoreCompileInputs.cache
+C:\Users\Softparc_10\Desktop\NewCrypto\NewCrypto\obj\Debug\NewCrypto.exe
+C:\Users\Softparc_10\Desktop\NewCrypto\NewCrypto\obj\Debug\NewCrypto.pdb
