@@ -1,0 +1,16 @@
+C:\Users\Softparc_10\Desktop\HashCrypto\HashApp\HashApp\bin\Debug\HashApp.exe.config
+C:\Users\Softparc_10\Desktop\HashCrypto\HashApp\HashApp\bin\Debug\HashApp.exe
+C:\Users\Softparc_10\Desktop\HashCrypto\HashApp\HashApp\bin\Debug\HashApp.pdb
+C:\Users\Softparc_10\Desktop\HashCrypto\HashApp\HashApp\obj\Debug\HashApp.csprojAssemblyReference.cache
+C:\Users\Softparc_10\Desktop\HashCrypto\HashApp\HashApp\obj\Debug\MainWindow.g.cs
+C:\Users\Softparc_10\Desktop\HashCrypto\HashApp\HashApp\obj\Debug\App.g.cs
+C:\Users\Softparc_10\Desktop\HashCrypto\HashApp\HashApp\obj\Debug\HashApp_MarkupCompile.cache
+C:\Users\Softparc_10\Desktop\HashCrypto\HashApp\HashApp\obj\Debug\HashApp_MarkupCompile.lref
+C:\Users\Softparc_10\Desktop\HashCrypto\HashApp\HashApp\obj\Debug\MainWindow.baml
+C:\Users\Softparc_10\Desktop\HashCrypto\HashApp\HashApp\obj\Debug\HashApp.g.resources
+C:\Users\Softparc_10\Desktop\HashCrypto\HashApp\HashApp\obj\Debug\HashApp.Properties.Resources.resources
+C:\Users\Softparc_10\Desktop\HashCrypto\HashApp\HashApp\obj\Debug\HashApp.csproj.GenerateResource.cache
+C:\Users\Softparc_10\Desktop\HashCrypto\HashApp\HashApp\obj\Debug\HashApp.csproj.CoreCompileInputs.cache
+C:\Users\Softparc_10\Desktop\HashCrypto\HashApp\HashApp\obj\Debug\HashApp.exe
+C:\Users\Softparc_10\Desktop\HashCrypto\HashApp\HashApp\obj\Debug\HashApp.pdb
+C:\Users\Softparc_10\Desktop\HashCrypto\HashApp\HashApp\obj\Debug\HashAlgo.baml
